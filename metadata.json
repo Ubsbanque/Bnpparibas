@@ -1,0 +1,6 @@
+{
+  "name": "Bank of America Online Banking",
+  "description": "Portail bancaire en ligne sécurisé inspiré de Bank of America pour Laurent Porsh (3 785 000 $). Comptes débloqués et pleinement opérationnels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
